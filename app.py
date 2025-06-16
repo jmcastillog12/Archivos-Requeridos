@@ -248,3 +248,8 @@ def update_output_div(date, hour, proy):
 # Run the server
 if __name__ == "__main__":
     app.run(debug=True)
+
+
+# Comentarios de Felipe para modificar el archivo app.py
+# Este comentario es para que apruebes después un merge de la rama felipe-vis
+# con tu rama main desde un Pull Request (PR) que te haré
